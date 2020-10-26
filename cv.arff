@@ -1,0 +1,27 @@
+@relation 'res_data -2-weka.filters.unsupervised.instance.Resample-S1-Z60.0-no-replacement-V-weka.filters.unsupervised.instance.Resample-S1-Z50.0-no-replacement'
+
+@attribute Sl_NO numeric
+@attribute Name {'Burger & Co.','Badhua Food Village','CP Five Star','Cafe Avengers','Cafe Light House','Cafe Marine','Cafe Spiceno','Cake N Cake','Chachar Chotpoti','Chap Somrat','Charcoal Restaurent','Dhakai Biriyani House','Diana Bakery','El Classico','El Classico 2.0','Essence 71','Euro King',FoodLand,'4 Star Hotel and Kabab','Fusion Cafe','Hotel Diana','Hotel Kasturi','Imaniya Kabab & Bakery','Isthi Kutum','Kutumbari Biriyani','La Destino','La Victorians',Minerva,'Mistir Mela','PC Restora','Pizza Dot','Rajasthan Shahi Biriyani','Silver Spoon','Sultan Dining','The Food Caf‚','Treat Out',Zenza,'Cafe Black & White','Alif China Town','Coffe House Fuchka','Jihan Restora','Coffe House Restaurent','Kakoli Restora','K Hossain Restaurent','AB Food','Cafe Classroom','Zam Zam Hotel','Hotel Noojahan','Iris Hill','Miami Restaurent','Biroti Restora','Hotel Matri Vhadar','Mayami Restaurent','Hotel Dhanshiri','Off Beat','Highway Inn','Hotel Tajmahal','Veta world','Dolly Resort','Green View','Hotel Dholphine','Time Square','Swadin Bangla Restora','Kazi Food Gallery','Yum Yum Restaurent',Yummy,'Food Palace','Mainnamati Highway Restora','Chondu Hotel','Blue Diamond','Dhaka Highway Hotel & Restaurent','Bangla Restora','Icy Spicy','Barfi Resaurent','Hotel Sala Uddin','Handy Patil Retaurent','Matir Hari Retaurent','Daoat Hotel & Restaurent','Red Roof Inn','Rose Garden','Red Chilli'}
+@attribute Taste numeric
+@attribute Quantity numeric
+@attribute Service numeric
+@attribute Price numeric
+@attribute Class {Average,Poor,Good}
+
+@data
+74,'Barfi Resaurent',3.1,3.2,3.3,3.1,Average
+75,'Hotel Sala Uddin',4.2,4.5,4,4.2,Good
+76,'Handy Patil Retaurent',3.5,3.2,3.6,3.2,Average
+20,'Fusion Cafe',2.1,2,2.3,2.2,Poor
+12,'Dhakai Biriyani House',4.1,3.9,3.6,3.7,Good
+56,'Highway Inn',2.5,2.6,2.4,2.3,Poor
+55,'Off Beat',2.5,2.4,2.7,2.8,Poor
+30,'PC Restora',3.2,3,3.1,3.1,Average
+23,'Imaniya Kabab & Bakery',3.1,3.4,3.4,3.6,Average
+6,'Cafe Marine',2.3,2.1,2,2.1,Poor
+37,Zenza,4.4,4.5,4.5,4.3,Good
+1,'Burger & Co.',3.1,3,2.9,2.5,Average
+32,'Rajasthan Shahi Biriyani',3.3,3.2,3.3,3.3,Average
+17,'Euro King',3,3.1,3.2,3,Average
+4,'Cafe Avengers',3.2,3.3,3.1,3.4,Average
+16,'Essence 71',3.1,3.2,3.1,3,Average

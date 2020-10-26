@@ -1,0 +1,28 @@
+@relation 'res_data -2-weka.filters.unsupervised.instance.Resample-S1-Z60.0-no-replacement-V-weka.filters.unsupervised.instance.Resample-S1-Z50.0-no-replacement-V'
+
+@attribute Sl_NO numeric
+@attribute Name {'Burger & Co.','Badhua Food Village','CP Five Star','Cafe Avengers','Cafe Light House','Cafe Marine','Cafe Spiceno','Cake N Cake','Chachar Chotpoti','Chap Somrat','Charcoal Restaurent','Dhakai Biriyani House','Diana Bakery','El Classico','El Classico 2.0','Essence 71','Euro King',FoodLand,'4 Star Hotel and Kabab','Fusion Cafe','Hotel Diana','Hotel Kasturi','Imaniya Kabab & Bakery','Isthi Kutum','Kutumbari Biriyani','La Destino','La Victorians',Minerva,'Mistir Mela','PC Restora','Pizza Dot','Rajasthan Shahi Biriyani','Silver Spoon','Sultan Dining','The Food Caf‚','Treat Out',Zenza,'Cafe Black & White','Alif China Town','Coffe House Fuchka','Jihan Restora','Coffe House Restaurent','Kakoli Restora','K Hossain Restaurent','AB Food','Cafe Classroom','Zam Zam Hotel','Hotel Noojahan','Iris Hill','Miami Restaurent','Biroti Restora','Hotel Matri Vhadar','Mayami Restaurent','Hotel Dhanshiri','Off Beat','Highway Inn','Hotel Tajmahal','Veta world','Dolly Resort','Green View','Hotel Dholphine','Time Square','Swadin Bangla Restora','Kazi Food Gallery','Yum Yum Restaurent',Yummy,'Food Palace','Mainnamati Highway Restora','Chondu Hotel','Blue Diamond','Dhaka Highway Hotel & Restaurent','Bangla Restora','Icy Spicy','Barfi Resaurent','Hotel Sala Uddin','Handy Patil Retaurent','Matir Hari Retaurent','Daoat Hotel & Restaurent','Red Roof Inn','Rose Garden','Red Chilli'}
+@attribute Taste numeric
+@attribute Quantity numeric
+@attribute Service numeric
+@attribute Price numeric
+@attribute Class {Average,Poor,Good}
+
+@data
+72,'Bangla Restora',2.1,2.2,2.1,2.3,Average
+2,'Badhua Food Village',2.4,2.1,2,2.1,Poor
+3,'CP Five Star',3,3,3,3,Average
+68,'Mainnamati Highway Restora',3.5,3.8,3.4,3.5,Average
+26,'La Destino',3.4,3,3,2.9,Average
+27,'La Victorians',3.5,3.2,2.9,3,Average
+7,'Cafe Spiceno',3.1,3.4,3,3,Average
+71,'Dhaka Highway Hotel & Restaurent',3.2,3.8,3.8,3.5,Average
+9,'Chachar Chotpoti',4.1,3.4,3.4,3.9,Good
+45,'AB Food',4.1,4.2,4.3,4,Good
+48,'Hotel Noojahan',3.1,3.4,3.2,3.1,Average
+64,'Kazi Food Gallery',2.8,2,2.1,2.2,Poor
+70,'Blue Diamond',3.6,3.2,3.4,3.6,Average
+61,'Hotel Dholphine',2.3,2.3,2.1,2,Poor
+42,'Coffe House Restaurent',4.1,4.2,4,4,Good
+52,'Hotel Matri Vhadar',3.2,3.4,3.3,3.5,Average
+18,FoodLand,4.1,4,4.3,4.1,Good

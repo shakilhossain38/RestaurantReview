@@ -1,0 +1,59 @@
+@relation 'res_data -2-weka.filters.unsupervised.instance.Resample-S1-Z60.0-no-replacement'
+
+@attribute Sl_NO numeric
+@attribute Name {'Burger & Co.','Badhua Food Village','CP Five Star','Cafe Avengers','Cafe Light House','Cafe Marine','Cafe Spiceno','Cake N Cake','Chachar Chotpoti','Chap Somrat','Charcoal Restaurent','Dhakai Biriyani House','Diana Bakery','El Classico','El Classico 2.0','Essence 71','Euro King',FoodLand,'4 Star Hotel and Kabab','Fusion Cafe','Hotel Diana','Hotel Kasturi','Imaniya Kabab & Bakery','Isthi Kutum','Kutumbari Biriyani','La Destino','La Victorians',Minerva,'Mistir Mela','PC Restora','Pizza Dot','Rajasthan Shahi Biriyani','Silver Spoon','Sultan Dining','The Food Caf‚','Treat Out',Zenza,'Cafe Black & White','Alif China Town','Coffe House Fuchka','Jihan Restora','Coffe House Restaurent','Kakoli Restora','K Hossain Restaurent','AB Food','Cafe Classroom','Zam Zam Hotel','Hotel Noojahan','Iris Hill','Miami Restaurent','Biroti Restora','Hotel Matri Vhadar','Mayami Restaurent','Hotel Dhanshiri','Off Beat','Highway Inn','Hotel Tajmahal','Veta world','Dolly Resort','Green View','Hotel Dholphine','Time Square','Swadin Bangla Restora','Kazi Food Gallery','Yum Yum Restaurent',Yummy,'Food Palace','Mainnamati Highway Restora','Chondu Hotel','Blue Diamond','Dhaka Highway Hotel & Restaurent','Bangla Restora','Icy Spicy','Barfi Resaurent','Hotel Sala Uddin','Handy Patil Retaurent','Matir Hari Retaurent','Daoat Hotel & Restaurent','Red Roof Inn','Rose Garden','Red Chilli'}
+@attribute Taste numeric
+@attribute Quantity numeric
+@attribute Service numeric
+@attribute Price numeric
+@attribute Class {Average,Poor,Good}
+
+@data
+49,'Iris Hill',3.5,3.4,3.3,3.5,Average
+53,'Mayami Restaurent',3.1,3.5,3.2,3.4,Average
+44,'K Hossain Restaurent',2.2,2,2.3,2,Poor
+46,'Cafe Classroom',3.4,3.6,3.3,3.4,Average
+36,'Treat Out',3.5,3.6,3.5,3.6,Good
+51,'Biroti Restora',4.2,4.1,4.3,4.1,Good
+77,'Matir Hari Retaurent',4.2,4,4.2,4,Good
+66,Yummy,3.6,3.4,3.7,3.5,Average
+15,'El Classico 2.0',4.4,4.2,4.1,4.3,Good
+11,'Charcoal Restaurent',3,3.6,3.1,3,Average
+81,'Red Chilli',2.6,2.4,2.2,2.4,Poor
+78,'Daoat Hotel & Restaurent',4.2,4.3,4.1,4.3,Good
+40,'Coffe House Fuchka',4.2,4.4,4.1,4.4,Good
+63,'Swadin Bangla Restora',4.2,4.1,4,4.1,Good
+47,'Zam Zam Hotel',2.1,2,2.1,2,Poor
+58,'Veta world',2.6,2.5,2.1,2.3,Poor
+5,'Cafe Light House',4,4.5,3.9,4,Good
+50,'Miami Restaurent',4,4.1,4.2,4.1,Good
+19,'4 Star Hotel and Kabab',4.1,4,4.2,4,Good
+31,'Pizza Dot',3.1,3.2,3,3.1,Average
+54,'Hotel Dhanshiri',3.2,3.3,3.4,3.6,Average
+39,'Alif China Town',2.9,2.5,2.6,2.3,Poor
+57,'Hotel Tajmahal',2.7,2.3,2.4,2.6,Poor
+24,'Isthi Kutum',3.1,3.2,3,2.9,Average
+38,'Cafe Black & White',4.2,4.3,4.2,4.1,Good
+62,'Time Square',3.5,3.7,3.8,3.4,Average
+69,'Chondu Hotel',4.3,4.1,4.2,4.5,Good
+14,'El Classico',4.3,4.1,4.2,4.3,Good
+22,'Hotel Kasturi',3.1,2.9,3.2,3.2,Average
+67,'Food Palace',3.9,3.5,3.4,3.2,Poor
+73,'Icy Spicy',4.1,4.4,4,4.1,Good
+33,'Silver Spoon',2.3,2,2.2,2.3,Poor
+35,'The Food Caf‚',3.1,3.2,3.3,3.2,Average
+43,'Kakoli Restora',3.1,3.2,3.1,3,Average
+28,Minerva,4,3.9,4.2,4.1,Good
+65,'Yum Yum Restaurent',4.1,4,4.3,4,Good
+34,'Sultan Dining',4.2,4.3,4,4,Good
+8,'Cake N Cake',3.5,3.1,3.4,3.3,Average
+80,'Rose Garden',2.1,2.5,2.3,2.4,Poor
+59,'Dolly Resort',3.4,3.6,3.4,3.7,Average
+41,'Jihan Restora',3.2,3.6,3.8,3.4,Average
+60,'Green View',2.4,2.5,2.2,2,Poor
+25,'Kutumbari Biriyani',3.2,3.1,3,3,Average
+21,'Hotel Diana',4.4,4.3,4.1,4.2,Good
+10,'Chap Somrat',2.1,2,1.5,1.9,Poor
+13,'Diana Bakery',3,3,3,3,Average
+29,'Mistir Mela',4.2,4.4,4.1,4.3,Good
+79,'Red Roof Inn',2.4,2,2.1,2,Poor

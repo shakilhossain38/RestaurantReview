@@ -1,0 +1,82 @@
+Sl_NO,Name,Taste,Quantity,Service,Price,Class
+1,Burger & Co.,3.1,3,2.9,2.5,Average
+2,Badhua Food Village,2.4,2.1,2,2.1,Poor
+3,CP Five Star,3,3,3,3,Average
+4,Cafe Avengers,3.2,3.3,3.1,3.4,Average
+5,Cafe Light House,4,4.5,3.9,4,Good
+6,Cafe Marine,2.3,2.1,2,2.1,Poor
+7,Cafe Spiceno,3.1,3.4,3,3,Average
+8,Cake N Cake,3.5,3.1,3.4,3.3,Average
+9,Chachar Chotpoti,4.1,3.4,3.4,3.9,Good
+10,Chap Somrat,2.1,2,1.5,1.9,Poor
+11,Charcoal Restaurent,3,3.6,3.1,3,Average
+12,Dhakai Biriyani House,4.1,3.9,3.6,3.7,Good
+13,Diana Bakery,3,3,3,3,Average
+14,El Classico,4.3,4.1,4.2,4.3,Good
+15,El Classico 2.0,4.4,4.2,4.1,4.3,Good
+16,Essence 71,3.1,3.2,3.1,3,Average
+17,Euro King,3,3.1,3.2,3,Average
+18,FoodLand,4.1,4,4.3,4.1,Good
+19,4 Star Hotel and Kabab,4.1,4,4.2,4,Good
+20,Fusion Cafe,2.1,2,2.3,2.2,Poor
+21,Hotel Diana,4.4,4.3,4.1,4.2,Good
+22,Hotel Kasturi,3.1,2.9,3.2,3.2,Average
+23,Imaniya Kabab & Bakery,3.1,3.4,3.4,3.6,Average
+24,Isthi Kutum,3.1,3.2,3,2.9,Average
+25,Kutumbari Biriyani,3.2,3.1,3,3,Average
+26,La Destino,3.4,3,3,2.9,Average
+27,La Victorians,3.5,3.2,2.9,3,Average
+28,Minerva,4,3.9,4.2,4.1,Good
+29,Mistir Mela,4.2,4.4,4.1,4.3,Good
+30,PC Restora,3.2,3,3.1,3.1,Average
+31,Pizza Dot,3.1,3.2,3,3.1,Average
+32,Rajasthan Shahi Biriyani,3.3,3.2,3.3,3.3,Average
+33,Silver Spoon,2.3,2,2.2,2.3,Poor
+34,Sultan Dining,4.2,4.3,4,4,Good
+35,The Food Caf‚,3.1,3.2,3.3,3.2,Average
+36,Treat Out,3.5,3.6,3.5,3.6,Good
+37,Zenza,4.4,4.5,4.5,4.3,Good
+38,Cafe Black & White,4.2,4.3,4.2,4.1,Good
+39,Alif China Town,2.9,2.5,2.6,2.3,Poor
+40,Coffe House Fuchka,4.2,4.4,4.1,4.4,Good
+41,Jihan Restora,3.2,3.6,3.8,3.4,Average
+42,Coffe House Restaurent,4.1,4.2,4,4,Good
+43,Kakoli Restora,3.1,3.2,3.1,3,Average
+44,K Hossain Restaurent,2.2,2,2.3,2,Poor
+45,AB Food,4.1,4.2,4.3,4,Good
+46,Cafe Classroom,3.4,3.6,3.3,3.4,Average
+47,Zam Zam Hotel,2.1,2,2.1,2,Poor
+48,Hotel Noojahan,3.1,3.4,3.2,3.1,Average
+49,Iris Hill,3.5,3.4,3.3,3.5,Average
+50,Miami Restaurent,4,4.1,4.2,4.1,Good
+51,Biroti Restora,4.2,4.1,4.3,4.1,Good
+52,Hotel Matri Vhadar,3.2,3.4,3.3,3.5,Average
+53,Mayami Restaurent,3.1,3.5,3.2,3.4,Average
+54,Hotel Dhanshiri,3.2,3.3,3.4,3.6,Average
+55,Off Beat,2.5,2.4,2.7,2.8,Poor
+56,Highway Inn,2.5,2.6,2.4,2.3,Poor
+57,Hotel Tajmahal,2.7,2.3,2.4,2.6,Poor
+58,Veta world,2.6,2.5,2.1,2.3,Poor
+59,Dolly Resort,3.4,3.6,3.4,3.7,Average
+60,Green View,2.4,2.5,2.2,2,Poor
+61,Hotel Dholphine,2.3,2.3,2.1,2,Poor
+62,Time Square,3.5,3.7,3.8,3.4,Average
+63,Swadin Bangla Restora,4.2,4.1,4,4.1,Good
+64,Kazi Food Gallery,2.8,2,2.1,2.2,Poor
+65,Yum Yum Restaurent,4.1,4,4.3,4,Good
+66,Yummy,3.6,3.4,3.7,3.5,Average
+67,Food Palace,3.9,3.5,3.4,3.2,Poor
+68,Mainnamati Highway Restora,3.5,3.8,3.4,3.5,Average
+69,Chondu Hotel,4.3,4.1,4.2,4.5,Good
+70,Blue Diamond,3.6,3.2,3.4,3.6,Average
+71,Dhaka Highway Hotel & Restaurent,3.2,3.8,3.8,3.5,Average
+72,Bangla Restora,2.1,2.2,2.1,2.3,Average
+73,Icy Spicy,4.1,4.4,4,4.1,Good
+74,Barfi Resaurent,3.1,3.2,3.3,3.1,Average
+75,Hotel Sala Uddin,4.2,4.5,4,4.2,Good
+76,Handy Patil Retaurent,3.5,3.2,3.6,3.2,Average
+77,Matir Hari Retaurent,4.2,4,4.2,4,Good
+78,Daoat Hotel & Restaurent,4.2,4.3,4.1,4.3,Good
+79,Red Roof Inn,2.4,2,2.1,2,Poor
+80,Rose Garden,2.1,2.5,2.3,2.4,Poor
+81,Red Chilli,2.6,2.4,2.2,2.4,Poor
